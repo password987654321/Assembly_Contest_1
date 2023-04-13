@@ -12,3 +12,5 @@ To Compile and Run:
 3: Run ```.\asm_CSE3120.bat Invader.asm```
 
 4: run ```.\Invaders.exe```
+
+You can now enjoy my Space Invaders clone!
